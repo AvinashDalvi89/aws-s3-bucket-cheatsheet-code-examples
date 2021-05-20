@@ -1,3 +1,6 @@
+#Author : Avinash Dalvi 
+#Reference question : https://stackoverflow.com/questions/67616761/how-to-use-python-boto3-to-get-count-of-files-object-in-s3-bucket-older-than-60/67617160#67617160
+
 import json
 import boto3
 import datetime
